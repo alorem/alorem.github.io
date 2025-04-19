@@ -1,1 +1,0 @@
-# alorem.github.io
