@@ -35,6 +35,6 @@ Publications overview @
 I am a postdoctoral researcher at Imperial College London and a member of the [Computational Logic and Argumentation group (CLArg)](https://clarg.doc.ic.ac.uk/), led by [Francesca Toni](https://www.doc.ic.ac.uk/~ft). 
 I completed my PhD in March 2023 as part of the Doctoral College *Logical Methods in Computer Science (LogiCS)* at TU Wien, supervised by [Stefan Woltran](https://www.dbai.tuwien.ac.at/staff/woltran/). 
 
-My research centers around, broadly speaking, symbolic AI, with a primary focus on knowledge representation and non-monotonic reasoning, particularly computational argumentation.
+My research centers around, broadly speaking, symbolic AI, with a primary focus on knowledge representation and non-monotonic reasoning.
 My research on theoretical and practical aspects of computational argumentation has been awarded the *KR Early Career Award* ([press](https://informatics.tuwien.ac.at/news/2786)).
 My research interests furthermore include causal discovery, explainable AI, bias detection through explainable AI, logic programming, and non-classical logics.
