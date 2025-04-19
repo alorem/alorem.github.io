@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<img src="/img/AR.JPG" alt="Anna Rapberger" style="float: right; width:240px; border-radius:50%;">
+<img src="/img/AR.JPG" alt="Anna Rapberger" style="float: right; width:220px; border-radius:50%;">
 
 
 ## Anna Rapberger
