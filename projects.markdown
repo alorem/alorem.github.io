@@ -30,7 +30,7 @@ explainable, interactive and contestable ([press](https://www.imperial.ac.uk/new
 Refuting an argument does not necessarily imply that the claim it supports is invalid. In my dissertation, I explored 
 the difference between accepting an argument and accepting its claim and the foundations of claim-centric reasoning, including the computational complexity of claim-based reasoning, claim dynamics, and the development of semantics that account for claims in the reasoning process ([pdf at reposiTUm](https://repositum.tuwien.at/handle/20.500.12708/177029)).\\
     <span style="float:right;color:gray;">
-        <small>EDK LogiCS Dissertation Project (Oct 2018 - Mar 2023)</small>
+        <small>DK LogiCS Dissertation Project (Oct 2018 - Mar 2023)</small>
     </span>
 <br>
 
