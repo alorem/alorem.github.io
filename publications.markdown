@@ -53,7 +53,7 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 
 ### Discovering graph structures in argumentative reasoning
 
-...and clarifying the relations between non-monotonic reasoning formalisms.  
+...and clarifying the relations between non-monotonic reasoning formalisms. It's just a matter of perspective.
 
 - Yannis Dimopoulos, Wolfgang Dvorák, Matthias König, Anna Rapberger, Markus Ulbricht, Stefan Woltran:
 **Redefining ABA+ Semantics via Abstract Set-to-Set Attacks.** AAAI 2024: 10493-10500
@@ -80,7 +80,9 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 **Argumentation Semantics under a Claim-centric View: Properties, Expressiveness and Relation to SETAFs.** KR 2020: 341-350
 
 
-### Dynamics in structured argumentation
+### Dynamics in argumentation
+
+Argumentative reasoning evolves dynamically over time, and knowledge base revisions may become necessary in light of new information. Forgetting an assumption or enforcing a claim while preserving the structure of "irrelevant" knowledge can be challenging and sometimes even impossible. We investigate these changes and study questions like: *what are the theoretical boundaries, minimal consistent changes, long-term equivalence behaviour of argumentation frameworks?*
 
 - Anna Rapberger, Markus Ulbricht:
 **Repairing Assumption-Based Argumentation Frameworks.** KR 2024
