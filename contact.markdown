@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 Email: [anna.rapberger@tu-dortmund.de](mailto:anna.rapberger@tu-dortmund.de) \\
-Room 563a, Huxley Building\\
-South Kensington, London SW7 2AZ
+Room 3.015, Otto-Hahn-Straße 12\\
+44227 Dortmund, Germany
 
 Alternative email (TU Wien): [anna.rapberger@tuwien.ac.at](mailto:anna.rapberger@tuwien.ac.at)
