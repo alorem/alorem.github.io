@@ -14,7 +14,7 @@ layout: home
 
 Email: [anna.rapberger@tu-dortmund.de](mailto:anna.rapberger@tu-dortmund.de) \\
 Room 3.015, Otto-Hahn-Str 12\\
-44227 Dortmund 
+44227 Dortmund, Germany
 
 Academic websites: [TU Dortmund](https://logic-in.cs.tu-dortmund.de/personen/wissenschaftliche-mitarbeiterinnen/dr-anna-rapberger/) \|
 [TU Wien](https://www.dbai.tuwien.ac.at/staff/arapberg/)\\
