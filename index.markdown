@@ -32,7 +32,10 @@ Publications overview @
 ## About me
 
 
-I am a postdoctoral researcher at TU Dortmund in the group [Knowledge Based Systems](https://logic-in.cs.tu-dortmund.de/forschung/knowledge-based-systems/), led by [Jean Jung](https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/). 
+I am a Postdoc at TU Dortmund and a Honorary Research Fellow at Imperial College London.
+At TU Dortmund, I am part of the group [Knowledge Based Systems](https://logic-in.cs.tu-dortmund.de/forschung/knowledge-based-systems/), led by [Jean Jung](https://logic-in.cs.tu-dortmund.de/personen/profs/jean-christoph-jung/). 
+
+
 I completed my PhD in March 2023 as part of the Doctoral College *Logical Methods in Computer Science (LogiCS)* at TU Wien, supervised by [Stefan Woltran](https://www.dbai.tuwien.ac.at/staff/woltran/). Between 2023-2025, I was a research associate at Imperial College London and a member of the [Computational Logic and Argumentation group (CLArg)](https://clarg.doc.ic.ac.uk/), led by [Francesca Toni](https://www.doc.ic.ac.uk/~ft). 
 
 My research centers around, broadly speaking, symbolic AI, particularly in the area of knowledge representation and non-monotonic reasoning.
