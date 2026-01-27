@@ -17,6 +17,7 @@ Room 3.015, Otto-Hahn-Str 12\\
 44227 Dortmund, Germany
 
 Academic websites: [TU Dortmund](https://logic-in.cs.tu-dortmund.de/personen/wissenschaftliche-mitarbeiterinnen/dr-anna-rapberger/) \|
+[Imperial College London](https://profiles.imperial.ac.uk/a.rapberger/) \|
 [TU Wien](https://www.dbai.tuwien.ac.at/staff/arapberg/)\\
 Research profiles:  [Research Gate](https://www.researchgate.net/profile/Anna-Rapberger)  \| [ORCID](https://orcid.org/0000-0003-0355-3535)
 
