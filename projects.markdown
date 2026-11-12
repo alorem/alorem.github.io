@@ -20,9 +20,9 @@ I investigate theoretical foundations such as the robustness of explanations and
 
 - **Causal Argumentative Learning Assistant (CArLA).** 
 Causal discovery algorithms enhanced with argumentative reasoning: the goal of CArLA is to develop a software platform for causal discovery that is transparent,
-explainable, interactive and contestable ([press](https://www.imperial.ac.uk/news/255273/four-imperial-scientists-european-grants-develop/)).\\
+explainable, interactive and contestable ([press](https://www.imperial.ac.uk/news/255273/four-imperial-scientists-european-grants-develop/), [project website](https://clarg-group.github.io/CArLA/)).\\
     <span style="float:right;color:gray;">
-        <small>ERC PoC Horizon Project, led by Francesca Toni. Role: team member (Jan 2025 - now) </small>
+        <small>ERC PoC Horizon Project, led by Francesca Toni. Role: team member (Jan 2025 - Jun 26) </small>
     </span>
 <br>
 
