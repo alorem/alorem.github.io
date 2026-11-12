@@ -13,7 +13,7 @@ I contribute(d) to the following projects.
 The project develops methods for making AI systems more transparent using argumentative explainable AI, for example by using abstractions of black-box models to generate post-hoc explanations ([website](https://cordis.europa.eu/project/id/101020934)).
 I investigate theoretical foundations such as the robustness of explanations and develop methods that use argumentative reasoning, for example for causal discovery and bias detection.\
     <span style="float:right;color:gray;">
-        <small>ERC Horizon Project, led by Francesca Toni. Role: team member (Aug 2023–present)</small>
+        <small>*ERC Horizon Project, led by Francesca Toni. Role: team member (Aug 2023–present)*</small>
     </span>
 <br>
 
@@ -22,7 +22,7 @@ I investigate theoretical foundations such as the robustness of explanations and
 Causal discovery algorithms enhanced with argumentative reasoning: the goal of CArLA is to develop a software platform for causal discovery that is transparent,
 explainable, interactive, and contestable ([press](https://www.imperial.ac.uk/news/255273/four-imperial-scientists-european-grants-develop/), [project website](https://clarg-group.github.io/CArLA/)).\
     <span style="float:right;color:gray;">
-        <small>ERC PoC Horizon Project, led by Francesca Toni. Role: team member (Jan 2025–Jun 2026)</small>
+        <small>*ERC PoC Horizon Project, led by Francesca Toni. Role: team member (Jan 2025–Jun 2026)*</small>
     </span>
 <br>
 
@@ -30,7 +30,7 @@ explainable, interactive, and contestable ([press](https://www.imperial.ac.uk/ne
 Refuting an argument does not necessarily imply that the claim it supports is invalid. In my dissertation, I explored
 the difference between accepting an argument and accepting its claim, along with the foundations of claim-centric reasoning, including the computational complexity of claim-based reasoning, claim dynamics, and the development of semantics that account for claims in the reasoning process ([pdf at reposiTUm](https://repositum.tuwien.ac.at/handle/20.500.12708/177029)).\
     <span style="float:right;color:gray;">
-        <small>DK LogiCS Dissertation Project (Oct 2018–Mar 2023)</small>
+        <small>*DK LogiCS Dissertation Project (Oct 2018–Mar 2023)*</small>
     </span>
 <br>
 
