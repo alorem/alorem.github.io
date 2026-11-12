@@ -4,8 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-
-The list below is roughly sorted by topic, although some publications belong to two or more categories. It includes only most recent versions of the articles (e.g., the conference version is omitted if the corresponding journal version is already avaliable).
+The list below is roughly sorted by topic, although some publications belong to two or more categories. It includes only the most recent versions of the articles (for example, the conference version is omitted if the corresponding journal version is already available).
 
 A complete and up-to-date overview of my publications can be found at [DBLP](https://dblp.org/pid/248/6704.html) and
 [Google Scholar](https://scholar.google.com/citations?user=NyH8p2IAAAAJ&hl=de).
@@ -14,12 +13,10 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 <br>
 
 
-
 ### Efficient argumentative reasoning
 
 - Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner:
 **Instantiations and Computational Aspects of Non-Flat Assumption-based Argumentation.** IJCAI 2024: 3457-3465
-
 
 - Tuomo Lehtonen, Anna Rapberger, Francesca Toni, Markus Ulbricht, Johannes Peter Wallner:
 **On Computing Admissibility in ABA.** COMMA 2024: 121-132
@@ -38,7 +35,6 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 
 ### Argumentation and ML
 
-
 - Francesco Leofante, Hamed Ayoobi, Adam Dejl, Gabriel Freedman, Deniz Gorur, Junqi Jiang, Guilherme Paulino-Passos, Antonio Rago, Anna Rapberger, Fabrizio Russo, Xiang Yin, Dekai Zhang, Francesca Toni:
 **Contestable AI Needs Computational Argumentation.** KR 2024
 
@@ -49,11 +45,9 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 **PeerArg: Argumentative Peer Review with LLMs.** CoRR abs/2409.16813 (2024)
 
 
-
-
 ### Discovering graph structures in argumentative reasoning
 
-...and clarifying the relations between non-monotonic reasoning formalisms. It's just a matter of perspective.
+...and clarifying the relation between non-monotonic reasoning formalisms. It's just a matter of perspective.
 
 - Yannis Dimopoulos, Wolfgang Dvorák, Matthias König, Anna Rapberger, Markus Ulbricht, Stefan Woltran:
 **Redefining ABA+ Semantics via Abstract Set-to-Set Attacks.** AAAI 2024: 10493-10500
@@ -82,7 +76,7 @@ A complete and up-to-date overview of my publications can be found at [DBLP](htt
 
 ### Dynamics in argumentation
 
-Argumentative reasoning evolves dynamically over time, and knowledge base revisions may become necessary in light of new information. Forgetting an assumption or enforcing a claim while preserving the structure of "irrelevant" knowledge can be challenging and sometimes even impossible. We investigate these changes and study questions like: *what are the theoretical boundaries, minimal consistent changes, long-term equivalence behaviour of argumentation frameworks?*
+Argumentative reasoning evolves dynamically over time, and knowledge-base revisions may become necessary in light of new information. Forgetting an assumption or enforcing a claim while preserving the structure of “irrelevant” knowledge can be challenging and sometimes even impossible. We investigate these changes and study questions such as: *what are the theoretical boundaries, minimal consistent changes, and long-term equivalence behaviour of argumentation frameworks?*
 
 - Anna Rapberger, Markus Ulbricht:
 **Repairing Assumption-Based Argumentation Frameworks.** KR 2024
@@ -103,28 +97,27 @@ Argumentative reasoning evolves dynamically over time, and knowledge base revisi
 **Forgetting Aspects in Assumption-Based Argumentation.** KR 2023: 86-96
 
 - Wolfgang Dvorák, Anna Rapberger, Stefan Woltran:
-**On the different types of collective attacks in abstract argumentation: equivalence results for SETAFs.** J. Log. Comput. 30(5): 1063-1107 (2020)
+**On the Different Types of Collective Attacks in Abstract Argumentation: Equivalence Results for SETAFs.** J. Log. Comput. 30(5): 1063-1107 (2020)
 
 
 ### Claim-based reasoning
-
 
 - Michael Bernreiter, Wolfgang Dvorák, Anna Rapberger, Stefan Woltran:
 **The Effect of Preferences in Abstract Argumentation under a Claim-Centric View.** J. Artif. Intell. Res. 81: 203-262 (2024)
 
 - Wolfgang Dvorák, Alexander Greßler, Anna Rapberger, Stefan Woltran:
-**The complexity landscape of claim-augmented argumentation frameworks.** Artif. Intell. 317: 103873 (2023)
+**The Complexity Landscape of Claim-Augmented Argumentation Frameworks.** Artif. Intell. 317: 103873 (2023)
 
 - Wolfgang Dvorák, Anna Rapberger, Stefan Woltran:
-**A claim-centric perspective on abstract argumentation semantics: Claim-defeat, principles, and expressiveness.** Artif. Intell. 324: 104011 (2023)
+**A Claim-Centric Perspective on Abstract Argumentation Semantics: Claim-Defeat, Principles, and Expressiveness.** Artif. Intell. 324: 104011 (2023)
 
 - Ringo Baumann, Anna Rapberger, Markus Ulbricht:
-**Equivalence in Argumentation Frameworks with a Claim-centric View: Classical Results with Novel Ingredients.** J. Artif. Intell. Res. 77: 891-948 (2023)
+**Equivalence in Argumentation Frameworks with a Claim-Centric View: Classical Results with Novel Ingredients.** J. Artif. Intell. Res. 77: 891-948 (2023)
 
 - Anna Rapberger:
-**Defining Argumentation Semantics under a Claim-centric View.** STAIRS@ECAI 2020
+**Defining Argumentation Semantics under a Claim-Centric View.** STAIRS@ECAI 2020
 
-### Computational Social Choice 
+### Computational Social Choice
 
 - Thekla Hamm, Martin Lackner, Anna Rapberger:
 **Computing Kemeny Rankings from d-Euclidean Preferences.** ADT 2021: 147-161
